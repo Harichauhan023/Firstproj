@@ -6,6 +6,7 @@ void main()
 
 {
    printf("Hello");
-   printf("This is bad time");
+   printf("This is my time");
 
 }
+
